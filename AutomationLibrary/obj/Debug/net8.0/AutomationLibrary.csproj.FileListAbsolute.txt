@@ -1,0 +1,15 @@
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\bin\Debug\net8.0\AutomationLibrary.deps.json
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\bin\Debug\net8.0\AutomationLibrary.dll
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\bin\Debug\net8.0\AutomationLibrary.pdb
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.csproj.AssemblyReference.cache
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.AssemblyInfoInputs.cache
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.AssemblyInfo.cs
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.dll
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\refint\AutomationLibrary.dll
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\AutomationLibrary.pdb
+C:\Users\msangweni\testAutomationPractice\AutomationLibrary\obj\Debug\net8.0\ref\AutomationLibrary.dll
